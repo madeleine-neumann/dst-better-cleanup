@@ -1,7 +1,7 @@
 name = "Automatic Serverclean"
 description = [[Custom server cleaning, providing automatic and manual modes.]]
 author = "Original by Lolligoo - Translated by MissN"
-version = "0.1"
+version = "0.2"
 api_version = 10
 icon_atlas = "modicon.xml"
 icon = "modicon.tex"
